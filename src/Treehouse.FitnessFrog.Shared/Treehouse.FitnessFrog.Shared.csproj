@@ -57,6 +57,7 @@
     <Compile Include="Data\DatabaseInitializer.cs" />
     <Compile Include="Data\EntriesRepository.cs" />
     <Compile Include="Models\Activity.cs" />
+    <Compile Include="Models\Class1.cs" />
     <Compile Include="Models\Entry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
